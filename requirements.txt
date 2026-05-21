@@ -3,4 +3,5 @@ pandas
 pyarrow
 runpod~=1.7.0
 pydantic-settings
+transformers>=5.5.0
 vllm==0.8.4
